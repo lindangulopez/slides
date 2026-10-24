@@ -2,3 +2,8 @@ node_modules/
 dist/
 .slidev/
 *.local
+
+# Private decks: kept local, never pushed
+decks/private/
+decks/**/*[Dd][Ee][Pp][Oo][Ss][Ii][Tt]*
+decks/**/*[Cc][Nn][Rr][Ss]*
