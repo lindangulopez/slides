@@ -1,13 +1,13 @@
 ---
 theme: default
-title: Slides
+title: Example deck
 info: |
   Slidev deck by Linda Angulo Lopez.
 transition: slide-left
 mdc: true
 ---
 
-# Slides
+# Example deck
 
 Linda Angulo Lopez
 

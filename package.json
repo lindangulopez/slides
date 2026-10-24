@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "slidev --open",
-    "build": "slidev build",
+    "build": "node scripts/build-all.mjs",
     "export": "slidev export",
     "format": "slidev format"
   },
